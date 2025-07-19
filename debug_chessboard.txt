@@ -1,0 +1,9 @@
+INFO - New game started.
+INFO - Actions function called.
+INFO - Help requested.
+INFO - Actions function called.
+INFO - Help requested.
+INFO - Actions function called.
+INFO - Help requested.
+INFO - Actions function called.
+INFO - Help requested.
